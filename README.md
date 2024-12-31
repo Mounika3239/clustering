@@ -1,6 +1,6 @@
 # Clustering Algorithm Demonstration
 
-This peoject showcases the implementation and enhancement of the K-means clustering algorithm, focusing on the effects of centroid initialization methods on convergence rates.
+This project showcases the implementation and enhancement of the K-means clustering algorithm, focusing on the effects of centroid initialization methods on convergence rates.
 
 ---
 
