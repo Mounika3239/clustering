@@ -4,7 +4,7 @@ This project showcases the implementation and enhancement of the K-means cluster
 
 ---
 
-## Highlights
+## Implementation
 
 - **K-means Clustering**:
   - Demonstrates the impact of randomly initialized centroids on convergence.
