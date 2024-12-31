@@ -19,17 +19,6 @@ This project showcases the implementation and enhancement of the K-means cluster
 
 ---
 
-## Files in the Repository
-
-- **`ClusteringDemo.ipynb`**: Jupyter notebook containing:
-  - Implementation of the original K-means algorithm with random centroid initialization.
-  - Modified version using farthest-point centroid initialization.
-  - Performance comparison with visualizations.
-
-- **`report.pdf`**: Detailed analysis and results of the clustering experiments.
-
----
-
 ## Prerequisites
 
 - Python 3.x
